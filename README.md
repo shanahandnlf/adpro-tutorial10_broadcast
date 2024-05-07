@@ -33,3 +33,16 @@ Dengan mengubah port tersebut, maka server dan client dapat berkomunikasi kembal
 
 
 2.3. Small changes. Add some information to client
+Berikut hasil modifikasi di konsol:
+![alt text](image-9.png)
+![alt text](image-10.png)
+![alt text](image-11.png)
+![alt text](image-12.png)
+
+Berikut modifikasi kode yang saya lakukan
+![alt text](image-13.png)
+![alt text](image-14.png)
+![alt text](image-15.png)
+
+Berikut adalah modifikas kode yang saya lakukan. Saya menambahkan informasi nama komputer client pada saat client baru terhubung ke server. Saya juga memodifikasi  bcast.tx agar pesan yang diberikan oleh client juga menampilkan nama dan IP address client. 
+
